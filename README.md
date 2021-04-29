@@ -1,1 +1,1 @@
-# Lenovo-BIOS-Update-and-Diagnosis-
+# Lenovo-BIOS-Update-and-Diagnosis
